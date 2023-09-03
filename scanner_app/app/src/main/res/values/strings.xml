@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Skener</string>
+    <string name="product_title">Název: %1$s</string>
+    <string name="product_code">Kód: %1$s</string>
+    <string name="connected_to">Připojeno k %1$s</string>
+    <string name="connecting_to">Připojování k %1$s</string>
+    <string name="failed_to">Nelze se připojit k %1$s</string>
+    <string name="connection_failed">Odpojeno od %1$s</string>
+    <string name="set_ip_text">Proveďte konfiguraci spojení</string>
+</resources>

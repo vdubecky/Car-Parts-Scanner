@@ -1,0 +1,6 @@
+C:\Users\dubec\source\repos\scanner_desktop\scanner_desktop\bin\publish\scanner_desktop.exe
+C:\Users\dubec\source\repos\scanner_desktop\scanner_desktop\bin\publish\scanner_desktop.dll
+C:\Users\dubec\source\repos\scanner_desktop\scanner_desktop\bin\publish\scanner_desktop.deps.json
+C:\Users\dubec\source\repos\scanner_desktop\scanner_desktop\bin\publish\scanner_desktop.runtimeconfig.json
+C:\Users\dubec\source\repos\scanner_desktop\scanner_desktop\bin\publish\scanner_desktop.dll.config
+C:\Users\dubec\source\repos\scanner_desktop\scanner_desktop\bin\publish\scanner_desktop.pdb
